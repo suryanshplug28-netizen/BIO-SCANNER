@@ -1,0 +1,6 @@
+{
+  "name": "Freshness Analyzer",
+  "description": "Real-time produce freshness analysis, bacteria proxy detection, and shelf-life prediction powered by on-device computer vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
